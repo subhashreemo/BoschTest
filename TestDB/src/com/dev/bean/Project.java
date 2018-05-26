@@ -10,6 +10,7 @@ public class Project {
 	private String posRequest;//POS_REQ--int
 	//private Integer posRequest;
 	
+	
 	private String mrgNumber;//MRG_NO
 	private String projectcost;//PRJ_COST--int
 	//private Integer projectcost;
